@@ -1,3 +1,5 @@
+/* DEVELOPER: Samerth Patel, IS117-101, Spring 2021 */
+
 const navbar = document.getElementById("navbar");
 let bol = false;
 const offset = 200;
