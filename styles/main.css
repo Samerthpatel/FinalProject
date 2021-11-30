@@ -44,3 +44,11 @@ header::before, .newsletter::before {
         height: 35em;
     }
 }
+
+.logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 0%;
+    overflow: hidden;
+    margin-top: 0px;
+}
